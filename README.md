@@ -1,4 +1,5 @@
 # TeeWorlds Infection FUN MOD
+## about
 This infection mod is a FOSS clone of original Gravity's infection mod.
 
 But I collected and modified or made some maps and put them in **data/map**.  
@@ -19,15 +20,20 @@ inf_castele地图来自TeeWolrds论坛，
 
 我会做10张多地图放进这个库。
 
+## new maps
+
 If you have a good map, you can add it in the branch,
 
 I'll look at it, and if this mode suits, 
 
 I'll add it to this library
 
+
 如果你有好的地图，可以在分支中加入，
 
 我会看一下，如果合适这个模式，我将加入到这个库中。
+
+## how to run?
 
 This project library only supports Linux,
 
