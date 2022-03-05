@@ -20,6 +20,10 @@ inf_castele地图来自TeeWolrds论坛，
 
 我会做10张多地图放进这个库。
 
+Also, please modify the autoexec .cfg yourself
+
+另外，请自行修改autoexec.cfg
+
 ## new maps 怎么提交新地图？
 
 If you have a good map, you can add it in the branch,
